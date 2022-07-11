@@ -1,0 +1,7 @@
+.env
+node_modules
+
+truffle/.env
+truffle/node_modules
+
+client/_src
